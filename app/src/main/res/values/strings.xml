@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="logo">Logo</string>
+    <string name="ticTacToeName">Крестики нолики</string>
+    <string name="startGame">Начать игру</string>
+    <string name="lastGames">Последние игры</string>
+    <string name="copyright">© akamex 2022</string>
+    <string name="aboutGame">Об игре</string>
+    <string name="back">Назад</string>
+    <string name="verseII">Против ИИ</string>
+    <string name="verseFriend">С другом</string>
+    <string name="about_text">Логическая игра между двумя противниками на квадратном поле 3 на 3 клетки или большего размера. Один из игроков играет «крестиками», второй - «ноликами». В традиционной китайской игре используются чёрные и белые камни.</string>
+</resources>
